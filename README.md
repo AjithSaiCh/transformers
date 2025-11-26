@@ -1,10 +1,4 @@
-Below is a **clean, minimal, complete, correct** README structure specifically tailored for the code you shared. It covers all required sections for someone to run, understand, and extend your project.
-
-You can copy-paste this and replace project name + description if needed.
-
----
-
-# **Transformer Translation Model (Hindi ↔ English) – README**
+# **Transformer Translation Model
 
 ## **Overview**
 
