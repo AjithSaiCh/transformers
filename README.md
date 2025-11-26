@@ -1,4 +1,4 @@
-# **Transformer Translation Model
+# Transformer Translation Model
 
 ## **Overview**
 
