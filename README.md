@@ -217,12 +217,3 @@ torchinfo
 * Set your `HF_TOKEN` in environment variables (do not commit it).
 * GPU strongly recommended.
 * To disable Liger kernels, set `use_liger = False`.
-
----
-
-If you want, I can also produce:
-
-* a shorter README
-* a more polished + professional open-source style README
-* a version with badges (W&B, Python version, license)
-* or convert this into Markdown with formatting ready to paste into GitHub.
